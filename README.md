@@ -55,7 +55,6 @@
     <p><b>InovaClass</b><br/>Aplicação Web com React e Node.js</p>
   </a>
 
-
 ---
 
 ## 📊 Estatísticas do GitHub
@@ -63,6 +62,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=LuisSarache&show_icons=true&theme=radical" alt="Estatísticas do GitHub" style="border-radius:15px;"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisSarache&layout=compact&theme=radical" alt="Top Linguagens" style="border-radius:15px;"/>
 </p>
+
 ---
 
 ## 📈 Minhas Atividades Recentes
