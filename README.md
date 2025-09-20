@@ -21,8 +21,12 @@
 - 🌱 Atualmente aprendendo: React, Machine Learning, DevOps  
 - 📫 Contato: luisotavioss20001@gmail.com  
 
-<p align="center">
-  <img src="assets/foto.jpg" alt="foto da rosa azul" width="400"/>
+<p align="center" style="margin-bottom:8px;">
+  <img src="assets/foto.jpg" alt="foto da rosa azul" width="400" style="border-radius:20px; box-shadow: 0px 4px 15px rgba(0,0,0,0.3);"/>
+</p>
+
+<p align="center" style="font-size:16px; max-width:600px; line-height:1.5; color:#555;">
+  🌹 <b>Rosa Azul:</b> Para mim, a rosa azul representa o impossível que nos inspira a continuar. Ela simboliza a perseverança, a busca constante por realizar sonhos e a coragem de nunca desistir, mesmo diante de desafios que parecem inatingíveis.
 </p>
 
 ---
@@ -45,11 +49,10 @@
 ## 🚀 Projetos Recentes
 <p align="center">
   <a href="https://github.com/LuisSarache/InovaClass-frontEnd" title="InovaClass: Aplicação Web com React e Node.js">
-    <img src="assets/iinovaclass.png" alt="InovaClass" width="250"/>
+    <img src="assets/iinovaclass.png" alt="InovaClass" width="250" style="border-radius:15px; box-shadow: 0px 4px 10px rgba(0,0,0,0.2);"/>
     <p><b>InovaClass</b><br/>Aplicação Web com React e Node.js</p>
   </a>
-
- 
+</p>
 
 ---
 
