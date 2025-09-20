@@ -13,7 +13,7 @@
   </a>
 </p>
 
---
+---
 
 ## 🌱 Sobre mim
 - 💻 Linguagens favoritas: Python, JavaScript, TypeScript  
