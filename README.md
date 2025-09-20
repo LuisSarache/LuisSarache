@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/LuisSarache/LuisSarache/main/assets/banner.png" alt="Banner do Perfil" width="900"/>
+  <img src="assets/banner.jpg" alt="Banner do Perfil" width="900"/>
 </p>
 
 <h1 align="center" style="background: linear-gradient(90deg, #ff8a00, #e52e71); -webkit-background-clip: text; color: transparent;">
@@ -8,18 +8,12 @@
 <p align="center" style="font-size:16px;">Desenvolvedor Full-Stack | Apaixonado por tecnologia e aprendizado contínuo</p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/seuusuario">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/seuusuario">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
   <a href="mailto:luisotavioss20001@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
----
+--
 
 ## 🌱 Sobre mim
 - 💻 Linguagens favoritas: Python, JavaScript, TypeScript  
@@ -28,7 +22,7 @@
 - 📫 Contato: luisotavioss20001@gmail.com  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="GIF de boas-vindas" width="400"/>
+  <img src="assets/foto.jpg" alt="foto da rosa azul" width="400"/>
 </p>
 
 ---
@@ -51,16 +45,11 @@
 ## 🚀 Projetos Recentes
 <p align="center">
   <a href="https://github.com/LuisSarache/InovaClass-frontEnd" title="InovaClass: Aplicação Web com React e Node.js">
-    <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" alt="InovaClass" width="250"/>
+    <img src="assets/iinovaclass.png" alt="InovaClass" width="250"/>
     <p><b>InovaClass</b><br/>Aplicação Web com React e Node.js</p>
   </a>
 
-  <!-- Exemplo de outro projeto -->
-  <a href="https://github.com/LuisSarache/OutroProjeto" title="Outro Projeto: Breve descrição">
-    <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Outro Projeto" width="250"/>
-    <p><b>Outro Projeto</b><br/>Breve descrição</p>
-  </a>
-</p>
+ 
 
 ---
 
@@ -91,9 +80,6 @@
 
 ## 📫 Contato
 <p align="center">
-  <a href="https://linkedin.com/in/seuusuario">
-    <img src="https://img.shields.io/badge/LinkedIn-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
   <a href="mailto:luisotavioss20001@gmail.com">
     <img src="https://img.shields.io/badge/Email-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
