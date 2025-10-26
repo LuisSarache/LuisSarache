@@ -27,10 +27,6 @@
   <img src="assets/foto.jpg" alt="foto da rosa azul" width="400" style="border-radius:30px; box-shadow: 0px 15px 40px rgba(0,0,0,0.5);"/>
 </p>
 
-<p align="center" style="font-size:16px; max-width:650px; line-height:1.7; color:#444; font-style:italic;">
-🌹 <b>Rosa Azul:</b> Para mim, a rosa azul representa o impossível que nos inspira a continuar. Ela simboliza perseverança, coragem e a busca constante pelos sonhos que parecem inalcançáveis. Sempre lembrar de nunca desistir e acreditar no extraordinário.
-</p>
-
 ---
 
 ## 🛠 Tecnologias e Ferramentas
@@ -71,14 +67,6 @@
 </p>
 
 ---
-
-## 🏆 Conquistas
-<p align="center">
-  <img src="https://img.shields.io/badge/GitHub-Achiever-brightgreen?style=for-the-badge&logo=github"/>
-  <img src="https://img.shields.io/badge/100+Commits-Completed-blue?style=for-the-badge&logo=github"/>
-  <img src="https://img.shields.io/badge/Portfolio-Built-red?style=for-the-badge&logo=react"/>
-  <img src="https://img.shields.io/badge/MachineLearning-Learning-orange?style=for-the-badge&logo=tensorflow"/>
-</p>
 
 ---
 
